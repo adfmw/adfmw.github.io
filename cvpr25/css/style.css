@@ -746,7 +746,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #speakers .speaker .details a:hover {
-  color: #f82249;
+  color: #0096ff; /* color: #f82249; */ 
 }
 
 #speakers .speaker:hover .details {
@@ -850,7 +850,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #organizers .speaker .details a:hover {
-  color: #f82249;
+  color: #0096ff; /* color: #f82249; */
 }
 
 #organizers .speaker:hover .details {
